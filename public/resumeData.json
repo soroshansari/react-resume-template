@@ -1,163 +1,164 @@
 {
   "main": {
-    "name":"Tim Baker",
-    "occupation":"(Your Occupation Here)",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
-    "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
-    "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+    "name": "Soroosh Ansarimehr",
+    "occupation": "Full-Stack Web Developer",
+    "description": "Technically minded professional with hands-on experience designing, developing, testing, implementing, and maintaining software and systems supporting business and technology applications",
+    "image": "profilepic.jpg",
+    "bio": "Knowledgeable and fully trained in Node.js, React (MERN Stack), Angular (MEAN Stack), ASP.NET C#, and Hybrid Mobile Applications (Ionic and Cordova). Proven success in building 20+ Web, Android, and iOS Applications for different startups and companies, executing web site security measures, and offering innovative solutions to complex issues. Instrumental in defining and employing procedures for ongoing web site revision. Expert in the development of up-to-date, high quality, and innovative software solutions. Adept at writing code that improves website accessibility, user experience, performance, and operational functionality. Solid analytical, technical, & communication skills with ability to work well in a team environment.",
+    "contactmessage": "Feel free to contact me.",
+    "email": "sorosh.ansari@gmail.com",
+    "phone": "+6(011) 611-09545",
+    "address": {
+      "city": "Putrajaya",
+      "state": "Malaysia",
+      "zip": "62000"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
-    "social":[
+    "website": "https://www.ansarimehr.com",
+    "social": [
       {
-        "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
-        "className":"fa fa-facebook"
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/soroosh-ansarimehr/",
+        "className": "fa fa-linkedin"
       },
       {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
+        "name": "facebook",
+        "url": "https://www.facebook.com/soroosh.ansari",
+        "className": "fa fa-facebook"
       },
       {
-        "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
-        "className":"fa fa-google-plus"
+        "name": "instagram",
+        "url": "https://www.instagram.com/sorooshansari/",
+        "className": "fa fa-instagram"
       },
       {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
-        "className":"fa fa-linkedin"
+        "name": "github",
+        "url": "https://github.com/soroshansari",
+        "className": "fa fa-github"
       },
       {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
+        "name": "whatsapp",
+        "url": "https://wa.me/601161109545",
+        "className": "fa fa-whatsapp"
       },
       {
-        "name":"github",
-        "url":"http://github.com/tbakerx",
-        "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
+        "name": "skype",
+        "url": "skype:live:soroosh.ansari?chat",
+        "className": "fa fa-skype"
       }
     ]
   },
-  "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
-    "education":[
+  "resume": {
+    "skillmessage": "Website Design & Development / Software Development / Web Application Testing / Issues Resolution Front-end Development / Project Management / Database Development / Requirement Gathering Object-oriented Programming / Solutions Development / Installation & Configuring / Deep Learning",
+    "education": [
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "Universiti Putra Malaysia (UPM)",
+        "degree": "Ph.D. Software Engineering Candidate",
+        "graduated": "Expected graduation Sep 2022"
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "Shiraz University",
+        "degree": "M.S. Computer Architecture",
+        "graduated": "Sep 2018"
+      },
+      {
+        "school": "Shiraz University",
+        "degree": "B.S. Applied Mathematical Science",
+        "graduated": "Sep 2015"
       }
     ],
-    "work":[
+    "work": [
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "TERTIARY COURSE MALAYSIA, Kuala Lampur, Malaysia",
+        "title": "Trainer",
+        "years": "Nov 2019 – Present",
+        "description": "Provide training to various candidates on different technical programing languages, environments, and web technologies to improve their skills and knowledge. Plan and conduct trainings on multiple courses, including Basic Node.js, Express.js, Full MEAN Stack, MicroServices with Node.js, Python 3, deep learning, and machine learning with TensorFlow. Apply best learning practices while instructing courses such as basic python training for beginners, basic unity game development training, Augmented Reality (AR) Mobile App Development, and unreal engine essential training."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "FREELANCER",
+        "title": "Full-Stack Web developer",
+        "years": "Aug 2019 – Present",
+        "description": "Use Node.js, Express.js, NestJs, React, GraphQL, Angular, Ionic, and MongoDB to design and develop different web sites as well as create databases supporting web applications and web sites. Evaluate and assess user needs to identify technical requirements, write code for web applications/web sites, and design web site security measures to protect data and information. Research and select different options in accordance with client or user requirements for web architecture or technologies. Install, configure, and maintain hypertext transfer protocol (HTTP) servers and related operating systems. "
+      },
+      {
+        "company": "SIVAN CO., Shiraz, Fars, Iran",
+        "title": "Full-Stack Web developer",
+        "years": "Jan 2018 – Aug 2019",
+        "description": "Designed, built, and maintained various web sites by using Node.js, Express.js, NestJs, Angular, Ionic, MongoDB, and PostgreSQL. Examined website requirements and specification to select best suitable programming languages, design tools, or applications. Collated required information and technical considerations that need to incorporate into web site design plans such as budgets, equipment, performance requirements, or legal issues. Researched, documented, and selected alternatives for web architecture or technologies. Demonstrated attention to detail skills while installing and configuring hypertext transfer protocol (HTTP) servers and associated operating systems. Reviewed code to confirm validity and proper structuring of code as well as fulfilment of industry standards."
+      },
+      {
+        "company": "SHIRAZ DOURANDISH CO., Shiraz, Fars, Iran",
+        "title": "Web Developer",
+        "years": "Mar 2015 – Jan 2018",
+        "description": "Designed, developed, and improved web sites using ASP.NET MVC, C#, SQL Server, Node.js, Express.js, AngularJs, IonicJs, and MongoDB. Sourced and selected potential candidates and delivered training to boost performance. Conducted detailed analysis of all systems charts and programs prior to implementation. Monitored and reviewed the performance and work of systems analysts, programmers, and other computer-related workers. Contributed efforts as a part of a project team and adeptly managed database development activities. Collected required information to share detailed descriptions of web site specifications such as product features, software, communication protocols, activities, programming languages, and software/hardware."
+      },
+      {
+        "company": "Amelsystem",
+        "title": "Back End Developer",
+        "years": "Dec 2014 - Feb 2015"
       }
     ],
-    "skills":[
+    "skills": [
       {
-        "name":"Git",
-        "level":"60%"
+        "name": "REST API / GraphQL",
+        "level": "90%"
       },
       {
-        "name":"Illustrator",
-        "level":"55%"
+        "name": "Node.js (Express.js / NestJs)",
+        "level": "90%"
       },
       {
-        "name":"ReactJs",
-        "level":"50%"
+        "name": "React (Redux / Hooks)",
+        "level": "75%"
       },
       {
-        "name":"CSS",
-        "level":"90%"
+        "name": "Angular / AngularJs",
+        "level": "90%"
       },
       {
-        "name":"HTML5",
-        "level":"80%"
+        "name": "Apache Cordova (Ionic Framework)",
+        "level": "90%"
       },
       {
-        "name":"VueJs",
-        "level":"50%"
+        "name": "ASP.NET MVC / ASP.NET Core MVC (C#)",
+        "level": "60%"
       },
       {
-        "name":"MongoDB",
-        "level":"80%"
+        "name": "MongoDB / MS SQL Server / PostgreSQL / SQLite",
+        "level": "80%"
+      },
+      {
+        "name": "AWS / Docker / Serverless",
+        "level": "70%"
+      },
+      {
+        "name": "TensorFlow / Keras",
+        "level": "55%"
+      },
+      {
+        "name": "Scrum master",
+        "level": "70%"
       }
     ]
   },
-  "portfolio":{
+  "portfolio": {
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title": "Inify",
+        "category": "The Online Payments System For Instagram",
+        "image": "inify.png",
+        "url": "https://inify.ir/?l=en"
       }
     ]
   },
-  "testimonials":{
-    "testimonials":[
+  "testimonials": {
+    "testimonials": [
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
       },
       {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
       }
     ]
   }
