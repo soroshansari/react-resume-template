@@ -26,11 +26,6 @@
         "className": "fa fa-facebook"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com/sorooshansari/",
-        "className": "fa fa-instagram"
-      },
-      {
         "name": "github",
         "url": "https://github.com/soroshansari",
         "className": "fa fa-github"
