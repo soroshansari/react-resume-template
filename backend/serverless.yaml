@@ -1,0 +1,41 @@
+service: ansarimehr-backend
+
+provider:
+  name: aws
+  runtime: nodejs12.x
+
+plugins:
+  - serverless-offline
+  - serverless-domain-manager
+
+custom:
+  customDomain:
+    domainName: api.ansarimehr.com
+    basePath: ''
+    stage: ${opt:stage, self:provider.stage}
+    createRoute53Record: true
+    endpointType: 'edge'
+    securityPolicy: tls_1_0
+    apiType: rest
+
+package:
+  exclude:
+    - .git/**
+    - src/**
+    - test/**
+    - e2e/**
+    - nodemon.json
+    - README.md
+
+functions:
+  index:
+    handler: dist/index.handler
+    events:
+      - http:
+          cors: true
+          path: '/'
+          method: any
+      - http:
+          cors: true
+          path: '{proxy+}'
+          method: any
